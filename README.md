@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scoopitypoopitypoop
 - 👀 I’m interested in ... becoming the best software developer for bioinformatics.
-- 🌱 I’m currently learning ... system biology and bioinformatics, R and python programming languages.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... xinxoerik24@gmail.com
+- 🌱 I’m currently learning ... Systems Biology and Bioinformatics... R and python are my (main) go-to programming langiages. 
+- 💞️ I’m looking to collaborate on ... good and interesting projects. :D
+- 📫 How to reach me ... YOU, can for example, reach me at: xinxoerik24@gmail.com. Send me an email and say "#//Hi!" 👍.
 
 <!---
 scoopitypoopitypoop/scoopitypoopitypoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
