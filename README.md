@@ -7,4 +7,7 @@
 <!---
 scoopitypoopitypoop/scoopitypoopitypoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ok, so lets see what creating a new branch for this commint and starting a pull request looks like.  
 --->
+ok, so lets see what creating a new branch for this commint and starting a pull request looks like.  
