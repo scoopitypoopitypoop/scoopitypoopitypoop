@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 ok, so lets see what creating a new branch for this commint and starting a pull request looks like.  
 --->
-Started from main after first test PR — testing standard merge commit.
-Started from main after first test PR — testing squash merge commit.
+Started from main after first test PR — testing standard merge.
+Started from main after first test PR — testing squash merge.
+Started from main after first test PR - testing rebase merge. 
